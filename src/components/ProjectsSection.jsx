@@ -4,11 +4,11 @@ const projects = [
     {
         id: 1,
         title: "SaaS Landing Page",
-        description: "A beautiful landing page app using React and Tailwind.",
+        description: "This is a small project where AI is used to generate Puppy Poems. There's nothing like puppy love, right??",
         image: "/projects/project1.png",
-        tags: ["React", "TailwindCSS", "Supabase"],
-        demoUrl: "#",
-        githubUrl: "#",
+        tags: ["HTML", "CSS", "API", "JavaScript", "Hosting"],
+        demoUrl: "https://puppylovesite.netlify.app",
+        githubUrl: "https://github.com/MamaKbubu/Poem_Generator2",
     },
     {
         id: 2,

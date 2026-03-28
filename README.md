@@ -34,21 +34,16 @@ Toggle light/dark mode with the button in the navbar
 Contact me through the Contact section form
 
 🌐 Deployment
-
 This portfolio was deployed easily using  Netlify. Make sure to build the project before deployment:
-
 npm run build
 📖 Learning Resources
-
 This project was inspired by tutorials and courses designed to teach modern React + TailwindCSS techniques.
-
 TailwindCSS Documentation: https://tailwindcss.com/docs
 ReactJS Documentation: https://reactjs.org/docs/getting-started.html
-
 💡 Future Improvements
 Add animations using Framer Motion
 Integrate backend contact form with email notifications
 Add portfolio filtering and project categories
-Email: youremail@example.com
+Email: maboelatk@gmail.com
 GitHub: https://github.com/YourUsername
 LinkedIn: https://www.linkedin.com/in/yourprofile

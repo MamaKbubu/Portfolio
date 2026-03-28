@@ -45,5 +45,3 @@ Add animations using Framer Motion
 Integrate backend contact form with email notifications
 Add portfolio filtering and project categories
 Email: maboelatk@gmail.com
-GitHub: https://github.com/YourUsername
-LinkedIn: https://www.linkedin.com/in/yourprofile

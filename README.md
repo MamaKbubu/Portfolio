@@ -21,7 +21,7 @@ Optional: React Icons, Framer Motion (for animations)
 
 📂 Installation
 Clone the repository:
-git clone https://github.com/YourUsername/Portfolio.git
+git clone https://github.com/MamaKbubu/Portfolio
 cd Portfolio
 Install dependencies:
 npm install

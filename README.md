@@ -44,4 +44,8 @@ ReactJS Documentation: https://reactjs.org/docs/getting-started.html
 Add animations using Framer Motion
 Integrate backend contact form with email notifications
 Add portfolio filtering and project categories
+
+Contact Me 🌝🌝🌝🌝🌝
 Email: maboelatk@gmail.com
+LinkedIn: https://www.linkedin.com/in/tshegofatso-maboela-b2084639/?locale=en_US
+GitHub : https://github.com/MamaKbubu

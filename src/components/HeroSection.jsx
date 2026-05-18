@@ -12,17 +12,18 @@ export const HeroSection = () => {
                         <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
                         <span className="text-primary opacity-0 animate-fade-in-delay-1">
                             {" "}
-                            Tshegofatso
+                            Mtho
                         </span>
                         <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
                             {" "}
-                            Maboela
+                            Saba
                         </span>
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        I am a self taught web developer with a passion for creating beautiful and functional websites.
-                        I studied with ALX and SheCodes. Projects will be linked below. Enjoy😎.
+                        Welcome to the one website that will not only give you some insight of your life. But it will also help you decode
+                        your own patterns and how you can get out of your own way when it comes to success, love and your career.
+                        Enjoy😎.
 
                     </p>
 
